@@ -10,6 +10,7 @@ namespace CSharp_Estudos
     {
         static void Main(string[] args)
         {
+            Console.Write("Tetse");
         }
     }
 }
